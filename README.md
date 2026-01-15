@@ -11,3 +11,6 @@
 - [ ] リスト削除機能
 - [ ] 完了済みリスト確認機能
 - [ ] 達成率確認機能
+
+## 画面遷移図
+Figma：https://www.figma.com/design/epjEQjMbrjY9e0UtO4Qn5S/%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E7%AE%A1%E7%90%86?node-id=0-1&t=R4Viq2f7dSzHM0WS-1
