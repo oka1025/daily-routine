@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>トップページ</title>
+</head>
+<body>
+    <h1>ようこそ</h1>
+
+    <a th:href="@{/login}">
+        <button>ログイン</button>
+    </a>
+
+    <a th:href="@{/register}">
+        <button>新規登録</button>
+    </a>
+</body>
+</html>
